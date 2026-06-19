@@ -16,7 +16,7 @@ Autoritativni pravilnik za pisanje novih odgovora na pitanja s foruma `forum.far
 | Liste | 3+ stavki → bullet (mala slova, točka samo na zadnjoj). Numerirana samo za korake. |
 | Odlomci | Max 3 rečenice, cilj 1-2. Jedna rečenica sama u redu = OK. Razbijaj po misli. |
 | Rečenice | Većinom kratke (8-15 riječi). |
-| Tablice | Prioritet za brojke / doziranje / usporedbe. Uvod iznad + caption ispod. Vidi sekciju **Tablice**. |
+| Tablice | Prioritet za brojke / doziranje / usporedbe. Uvodna rečenica iznad. Vidi sekciju **Tablice**. |
 | Hrvatski znakovi | Obavezno koristiti č, ć, š, đ, ž u cijelom tekstu, uključujući tablice, CTA i izvore. |
 | Interpunkcija | `—` zabranjen u rečenici. Rasponi: `6 - 8`. Broj + simbol: `50 %`. Bez zareza pred `i / pa / te / ni / niti`. Detalji u sekciji **Crtice i interpunkcija**. |
 | CTA | Uvodna rečenica + lista, 3-6 linkova, mix tipova. |
@@ -166,14 +166,13 @@ Tablice su **prioritet** kad su u pitanju brojke, doziranje, raspored uzimanja i
 - Svi stupci lijevo poravnati.
 - Prije i poslije tablice prazan red.
 
-**Uvod, opis i kontekstualizacija (obavezno):**
+**Uvodna rečenica iznad tablice (obavezno):**
 
-Tablica nikad ne smije visjeti sama u tekstu. Mora biti sendvičirana izmedu uvodne rečenice i kratkog opisa, da čitatelj zna što gleda i kako to čitati.
+Tablica nikad ne smije visjeti sama u tekstu. Iznad nje ide jedna uvodna rečenica koja najavi što tablica prikazuje i zašto je tu. Ne prepričavati podatke iz tablice, samo postaviti kontekst.
 
-- **Uvodna rečenica iznad tablice** — jedna rečenica koja najavi što tablica prikazuje i zašto je tu. Ne prepričavati podatke iz tablice, samo postaviti kontekst.
-- **Kratak opis ispod tablice** — 1 rečenica (max 2), centrirano poravnata i u kurzivu, kao caption. Sažima ključni zaključak iz tablice ili daje smjernicu za čitanje.
-- Caption ide kao HTML radi centriranja: `<p align="center"><em>...</em></p>`.
-- Ispred uvodne rečenice i iza captiona prazan red.
+- uvodna rečenica postavlja kontekst, ne ponavlja brojke iz tablice
+- ispred uvodne rečenice i iza tablice prazan red
+- bez natpisa ispod tablice.
 
 Primjer (doziranje):
 
@@ -185,8 +184,6 @@ Titracijski plan podiže dozu postupno da tijelo lakše podnese terapiju:
 | 1. tjedan | 50 mg | ujutro |
 | 2. tjedan | 100 mg | ujutro |
 | 3. tjedan | 100 mg | 2x dnevno |
-
-<p align="center"><em>Doza se udvostručuje tek kad prvi tjedan prođe bez nuspojava.</em></p>
 ```
 
 ## 11. Slike

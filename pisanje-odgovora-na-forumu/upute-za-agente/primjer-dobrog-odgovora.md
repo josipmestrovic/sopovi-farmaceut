@@ -1,6 +1,6 @@
 # Referentni primjer dobrog odgovora
 
-Ovaj fajl je **read-only referentni uzorak** za agente. Pokazuje kako u praksi izgleda dobar odgovor napisan prema [pravila-za-pisanje-odgovora.md](pravila-za-pisanje-odgovora.md): uvodni paragraf s prvim boldom, lead-in fraze, tablica s uvodom i captionom, blockquote upozorenje, CTA blok i izvori.
+Ovaj fajl je **read-only referentni uzorak** za agente. Pokazuje kako u praksi izgleda dobar odgovor napisan prema [pravila-za-pisanje-odgovora.md](pravila-za-pisanje-odgovora.md): uvodni paragraf s prvim boldom, lead-in fraze, tablica s uvodnom rečenicom, blockquote upozorenje, CTA blok i izvori.
 
 Ne mijenjati ovaj fajl. Služi samo kao referentni uzorak forme za nove odgovore.
 
@@ -15,8 +15,6 @@ Kako bi se vidjelo zašto je razlika tolika, pogledaj kako se ista ampula od 25 
 | 25 000 IU dnevno | 175 000 IU | 25 000 IU |
 | 25 000 IU 1x tjedno | 25 000 IU | 3 571 IU |
 | 25 000 IU 3x tjedno | 75 000 IU | 10 714 IU |
-
-<p align="center"><em>Samo režim od jedne ampule tjedno ostaje ispod gornje granice od 4 000 IU dnevno.</em></p>
 
 **Kod sigurnosne granice** važno je znati da je gornja tolerabilna granica za većinu odraslih oko 4 000 IU dnevno. Zato su režimi od 25 000 IU svaki dan i 25 000 IU tri puta tjedno osjetno iznad te razine.
 
