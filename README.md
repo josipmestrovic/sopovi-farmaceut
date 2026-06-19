@@ -1,3 +1,3 @@
-# SOPovi
+# SOPOVI
 
-Ovaj repozitorij sadrzi standardne operativne procedure za farmaceuta.
+Standardne operativne procedure za farmaceuta.
